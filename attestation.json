@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorsavane",
+  "repo": "NDesumeur/neodex-plugin-decor-savane",
+  "version": "1.0.0",
+  "sha256": "1c976294c7e55d60a3f24eb2c3cabc6638c1e09d6dc64bd4cf9d9f1ce9ca4ad4",
+  "approvedAt": "2026-11-22T19:05:25.729Z",
+  "neobase": ">=4.1.0",
+  "signature": "CBotpShZoBZ2vCn+ZG5tdPetPTQ7ZS7UT6zsw3bbIFYIuWD9YEXIuF3d6waaOEH8UIuR8yVHKh0aW5is4eMLCA=="
+}
